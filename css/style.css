@@ -38,3 +38,67 @@ header{
 	width: 100%;
 	margin: 80px auto 120px auto;
 }
+
+.text{
+	text-transform: uppercase;
+	border-right: 3px solid black;
+	margin: auto 20px auto 120px;
+	width: 100px;
+	display:inline;
+	padding-right: 20px;
+
+}
+
+.text2{
+	display:inline;
+}
+
+.bothtext {
+	margin-bottom: 80px;
+}
+
+.box1 {
+	margin: auto 80px 120px;
+	background-color: grey;
+	border: 20px solid black;
+	width: 450px;
+	display: inline-block;
+
+}
+
+.photo {
+	width: 200px;
+	vertical-align: middle;
+	display: inline-block;
+}
+
+.box-h3{
+	text-transform: uppercase;
+	margin: 20px auto 20px 20px;
+	color: blue;
+
+}
+
+.box-p{
+	display:inline-block;
+	vertical-align: middle;
+	margin-left: 40px;
+	width: 200px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
