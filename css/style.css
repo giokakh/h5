@@ -86,7 +86,12 @@ header{
 	width: 200px;
 }
 
-
+.footer{
+	height: 50px;
+	margin-right: 20px;
+	padding-right: 10px;
+	border-right: 2px solid black;
+}
 
 
 
